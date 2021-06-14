@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: cyan;
+}
+
+h1 {
+    color: crimson;
+    background-color: beige;
+}
+
+img {
+    border: solid;
+    height: 200px;
+    width: 200px;
+    border-color: chocolate;
+}
